@@ -1,3 +1,4 @@
 Gitコマンド
 init ディレクトリをGit管理下に置く
 add ファイルをインデックスに送る
+commit asdfasdfas
